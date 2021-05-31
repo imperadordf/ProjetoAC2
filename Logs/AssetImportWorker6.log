@@ -1,0 +1,1121 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'pt' Physical Memory: 8136 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Projeto/Faculdade/Fabio AC2
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+52780
+Successfully changed project path to: C:/Projeto/Faculdade/Fabio AC2
+C:/Projeto/Faculdade/Fabio AC2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Projeto/Faculdade/Fabio AC2/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.6611
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56032
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002791 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 31.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 17.217 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002130 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.996 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 1.45 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1305 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.5 MB.
+System memory in use after: 142.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1767.
+Total: 1.683300 ms (FindLiveObjects: 0.124100 ms CreateObjectMapping: 0.045300 ms MarkObjects: 1.407500 ms  DeleteObjects: 0.105600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f79d90cd0deab350dd2411bbbec95512') in 0.196433 seconds
+  Import took 0.198561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.547763 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f79d90cd0deab350dd2411bbbec95512') in 0.006292 seconds
+  Import took 0.009574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.912856 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf24eabee6a59bbe0f80528d256cf46') in 0.005771 seconds
+  Import took 0.008408 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002004 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.772 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.0 MB.
+System memory in use after: 141.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1770.
+Total: 1.474300 ms (FindLiveObjects: 0.118700 ms CreateObjectMapping: 0.039200 ms MarkObjects: 1.253800 ms  DeleteObjects: 0.061800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.252904 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ce4f39279779bcd95ace9d54cf114a7') in 0.029746 seconds
+  Import took 0.057503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.960165 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ce4f39279779bcd95ace9d54cf114a7') in 0.005978 seconds
+  Import took 0.008104 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001689 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.770 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.0 MB.
+System memory in use after: 141.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1773.
+Total: 1.725600 ms (FindLiveObjects: 0.122300 ms CreateObjectMapping: 0.032700 ms MarkObjects: 1.499900 ms  DeleteObjects: 0.069800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 418.372442 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2657e4fcdf10ff005fda28ff7ff808f') in 0.039133 seconds
+  Import took 0.041655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.435760 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31252fa99a091fd86da2310df843bbd1') in 0.008242 seconds
+  Import took 0.011073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.031415 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0365d17be0ce030a72a7f91741e5d4f3') in 0.006529 seconds
+  Import took 0.009026 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002186 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.860 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1776.
+Total: 1.940300 ms (FindLiveObjects: 0.178400 ms CreateObjectMapping: 0.047400 ms MarkObjects: 1.614300 ms  DeleteObjects: 0.099300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.259325 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac1dfd2ad6c3f537f8c9b2183a66aa96') in 0.036293 seconds
+  Import took 0.038929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002356 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac1dfd2ad6c3f537f8c9b2183a66aa96') in 0.006830 seconds
+  Import took 0.009002 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001824 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.875 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1779.
+Total: 2.178200 ms (FindLiveObjects: 0.134100 ms CreateObjectMapping: 0.050500 ms MarkObjects: 1.870400 ms  DeleteObjects: 0.121200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.894641 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d217c176772a9fa3c56a3628948c03') in 0.035478 seconds
+  Import took 0.072176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000533 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d217c176772a9fa3c56a3628948c03') in 0.006535 seconds
+  Import took 0.009377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.442581 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6bfc8feeb74317ee4b354f93ee357f') in 0.008292 seconds
+  Import took 0.010896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012851 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6bfc8feeb74317ee4b354f93ee357f') in 0.007413 seconds
+  Import took 0.009969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.308490 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4803b3b6794b7e7e1b5b6dd660888624') in 0.007774 seconds
+  Import took 0.010870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.474129 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66709fd0414c07ce4a8b626a75bfe4bf') in 0.011116 seconds
+  Import took 0.013318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.108129 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44ff599eba9e76412323d4ae2e445374') in 0.007070 seconds
+  Import took 0.009261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.569683 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccea55cfe3b1cf5f322f073de8624e58') in 0.007190 seconds
+  Import took 0.009907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.820661 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dec0bf9b09d7bbd8ea8682ba68eca98') in 0.006457 seconds
+  Import took 0.008943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.634717 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a7d4c5f531b77232ee6df45c82985e1') in 0.008579 seconds
+  Import took 0.011619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.707614 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d7f0cba261139e89e0a8e5f5e20ae74') in 0.006890 seconds
+  Import took 0.009183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000622 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d7f0cba261139e89e0a8e5f5e20ae74') in 0.008330 seconds
+  Import took 0.014035 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001748 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.764 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1782.
+Total: 1.654100 ms (FindLiveObjects: 0.127900 ms CreateObjectMapping: 0.041400 ms MarkObjects: 1.413100 ms  DeleteObjects: 0.070800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.689596 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7718fa9095724c989bf6983edadf4add') in 0.031158 seconds
+  Import took 0.033355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.160459 seconds.
+  path: Assets/3D/Personagem/Animation/Jumping Down.fbx
+  artifactKey: Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Jumping Down.fbx using Guid(bb0e0c09ce87491439ae8e19ae9d61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7718fa9095724c989bf6983edadf4add') in 0.006699 seconds
+  Import took 0.009147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.997624 seconds.
+  path: Assets/3D/Personagem/Animation/PlayerController3.controller
+  artifactKey: Guid(48ddc1152ee6a9f43b0ff689fd722642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/PlayerController3.controller using Guid(48ddc1152ee6a9f43b0ff689fd722642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '185b1b1b42ab376e3890e428282fbcac') in 0.171690 seconds
+  Import took 0.174122 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001771 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.763 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1785.
+Total: 1.524700 ms (FindLiveObjects: 0.124700 ms CreateObjectMapping: 0.039800 ms MarkObjects: 1.297900 ms  DeleteObjects: 0.061400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.161514 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '982f46bc69ec8e285156fe5d445281a4') in 0.028819 seconds
+  Import took 0.030828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.506453 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a2e7c1d8b881502e9cdb1b9a3a09e56') in 0.005978 seconds
+  Import took 0.008382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.321032 seconds.
+  path: Assets/3D/Personagem/Animation/PlayerController3.controller
+  artifactKey: Guid(48ddc1152ee6a9f43b0ff689fd722642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/PlayerController3.controller using Guid(48ddc1152ee6a9f43b0ff689fd722642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f50bd7d3ace7b37caf9082c610ad44c') in 0.010502 seconds
+  Import took 0.013040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.565902 seconds.
+  path: Assets/3D/Personagem/Animation/PlayerController3.controller
+  artifactKey: Guid(48ddc1152ee6a9f43b0ff689fd722642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/PlayerController3.controller using Guid(48ddc1152ee6a9f43b0ff689fd722642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f69c05ce26591cabd9ec2cc1d658ab15') in 0.009803 seconds
+  Import took 0.012403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001760 seconds.
+  path: Assets/3D/Personagem/Animation/PlayerController3.controller
+  artifactKey: Guid(48ddc1152ee6a9f43b0ff689fd722642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/PlayerController3.controller using Guid(48ddc1152ee6a9f43b0ff689fd722642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f69c05ce26591cabd9ec2cc1d658ab15') in 0.009070 seconds
+  Import took 0.011910 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008297 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.797 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1788.
+Total: 1.585600 ms (FindLiveObjects: 0.135300 ms CreateObjectMapping: 0.034800 ms MarkObjects: 1.341100 ms  DeleteObjects: 0.073400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001689 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.757 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1791.
+Total: 1.517000 ms (FindLiveObjects: 0.121400 ms CreateObjectMapping: 0.031900 ms MarkObjects: 1.295100 ms  DeleteObjects: 0.067600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001726 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.795 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1794.
+Total: 1.518200 ms (FindLiveObjects: 0.121500 ms CreateObjectMapping: 0.037800 ms MarkObjects: 1.295500 ms  DeleteObjects: 0.062800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.084076 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc02b3fbf55c215e4ec0e5c01bd060f') in 0.040919 seconds
+  Import took 0.042970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.078988 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5927685f4220086420984b470da13b3c') in 0.006468 seconds
+  Import took 0.008793 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001910 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.844 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1797.
+Total: 2.075200 ms (FindLiveObjects: 0.123800 ms CreateObjectMapping: 0.033300 ms MarkObjects: 1.827200 ms  DeleteObjects: 0.090000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.896179 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38dc5c2624622167b8327e402bc48f25') in 0.027832 seconds
+  Import took 0.045119 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001923 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.806 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1800.
+Total: 1.525000 ms (FindLiveObjects: 0.119000 ms CreateObjectMapping: 0.032700 ms MarkObjects: 1.306600 ms  DeleteObjects: 0.066000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.755 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1803.
+Total: 2.107000 ms (FindLiveObjects: 0.188900 ms CreateObjectMapping: 0.049800 ms MarkObjects: 1.784700 ms  DeleteObjects: 0.082600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.149820 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad2d9e828f459bab00fa5200895dca0') in 0.035107 seconds
+  Import took 0.037823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.575808 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad2d9e828f459bab00fa5200895dca0') in 0.005683 seconds
+  Import took 0.007907 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001692 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.760 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1806.
+Total: 1.575400 ms (FindLiveObjects: 0.124900 ms CreateObjectMapping: 0.038700 ms MarkObjects: 1.344700 ms  DeleteObjects: 0.066300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 155.229821 seconds.
+  path: Assets/3D/Personagem/Animation/PlayerController3.controller
+  artifactKey: Guid(48ddc1152ee6a9f43b0ff689fd722642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/PlayerController3.controller using Guid(48ddc1152ee6a9f43b0ff689fd722642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1291e90fc1e92a8bfc7227689c4425e2') in 0.028369 seconds
+  Import took 0.030967 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001819 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1809.
+Total: 1.728600 ms (FindLiveObjects: 0.148400 ms CreateObjectMapping: 0.040400 ms MarkObjects: 1.464100 ms  DeleteObjects: 0.074900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001819 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.768 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1812.
+Total: 1.823400 ms (FindLiveObjects: 0.129700 ms CreateObjectMapping: 0.039200 ms MarkObjects: 1.560700 ms  DeleteObjects: 0.092800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004047 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.765 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1815.
+Total: 4.117800 ms (FindLiveObjects: 0.183900 ms CreateObjectMapping: 0.045600 ms MarkObjects: 3.794700 ms  DeleteObjects: 0.092100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 286.154162 seconds.
+  path: Assets/3D/Personagem/Animation/PlayerController3.controller
+  artifactKey: Guid(48ddc1152ee6a9f43b0ff689fd722642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/PlayerController3.controller using Guid(48ddc1152ee6a9f43b0ff689fd722642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '253cd5ded90ac796fe3e7a6e6c5e7a5c') in 0.047363 seconds
+  Import took 0.049890 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001665 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.801 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1818.
+Total: 1.609700 ms (FindLiveObjects: 0.182100 ms CreateObjectMapping: 0.044800 ms MarkObjects: 1.310500 ms  DeleteObjects: 0.071700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001818 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.770 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1821.
+Total: 1.669300 ms (FindLiveObjects: 0.122500 ms CreateObjectMapping: 0.033000 ms MarkObjects: 1.427900 ms  DeleteObjects: 0.084900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.185071 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c068251a05e9eb3a2b097aca7916305') in 0.034008 seconds
+  Import took 0.063140 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010115 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.793 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1824.
+Total: 1.510100 ms (FindLiveObjects: 0.125900 ms CreateObjectMapping: 0.039900 ms MarkObjects: 1.281600 ms  DeleteObjects: 0.061800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001726 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.814 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1827.
+Total: 1.532000 ms (FindLiveObjects: 0.128400 ms CreateObjectMapping: 0.034400 ms MarkObjects: 1.295900 ms  DeleteObjects: 0.072500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.767418 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a6d71d4224c29aa84ab97a7fdd0976') in 0.034489 seconds
+  Import took 0.060471 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001837 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.755 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1830.
+Total: 1.771700 ms (FindLiveObjects: 0.130300 ms CreateObjectMapping: 0.042400 ms MarkObjects: 1.522900 ms  DeleteObjects: 0.074900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.493088 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4d72b617804f9aa8185bf435aeb6c04') in 0.028322 seconds
+  Import took 0.030451 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001746 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.750 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1833.
+Total: 2.062300 ms (FindLiveObjects: 0.234700 ms CreateObjectMapping: 0.116400 ms MarkObjects: 1.632200 ms  DeleteObjects: 0.077700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.984670 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784e76cb71f80122ea7f34e0ca5613d8') in 0.027921 seconds
+  Import took 0.030108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.865043 seconds.
+  path: Assets/3D/Personagem/Animation/Movimento/Jump.fbx
+  artifactKey: Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/Movimento/Jump.fbx using Guid(c1b1ff05fadf55a4fac080940eb6decb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784e76cb71f80122ea7f34e0ca5613d8') in 0.005590 seconds
+  Import took 0.007711 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001728 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.762 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1836.
+Total: 1.846200 ms (FindLiveObjects: 0.128100 ms CreateObjectMapping: 0.032100 ms MarkObjects: 1.612500 ms  DeleteObjects: 0.072400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 543.705631 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(15679dda152391043aade0e98ba3f795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(15679dda152391043aade0e98ba3f795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6229e1d8a3fa062eb42aecfd1e30d3cc') in 0.023793 seconds
+  Import took 0.026316 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001772 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1839.
+Total: 1.576700 ms (FindLiveObjects: 0.140900 ms CreateObjectMapping: 0.037400 ms MarkObjects: 1.328900 ms  DeleteObjects: 0.068400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004036 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.776 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.1 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1842.
+Total: 1.573100 ms (FindLiveObjects: 0.125300 ms CreateObjectMapping: 0.035400 ms MarkObjects: 1.342300 ms  DeleteObjects: 0.069400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1234.430114 seconds.
+  path: Assets/3D/Personagem/Animation/PlayerController.controller
+  artifactKey: Guid(8afcfbb9abb26434fa64867717444829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Personagem/Animation/PlayerController.controller using Guid(8afcfbb9abb26434fa64867717444829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc3db733d4204f40db8d26e78dcc886') in 0.189813 seconds
+  Import took 0.204416 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001788 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.764 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1845.
+Total: 1.558300 ms (FindLiveObjects: 0.126400 ms CreateObjectMapping: 0.040500 ms MarkObjects: 1.320700 ms  DeleteObjects: 0.069900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001682 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.742 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1848.
+Total: 1.573200 ms (FindLiveObjects: 0.132300 ms CreateObjectMapping: 0.035600 ms MarkObjects: 1.338700 ms  DeleteObjects: 0.065700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001734 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.750 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1851.
+Total: 1.541900 ms (FindLiveObjects: 0.133100 ms CreateObjectMapping: 0.035900 ms MarkObjects: 1.302900 ms  DeleteObjects: 0.069200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002154 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.828 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1854.
+Total: 1.733400 ms (FindLiveObjects: 0.134900 ms CreateObjectMapping: 0.035600 ms MarkObjects: 1.488500 ms  DeleteObjects: 0.073800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001708 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.766 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1857.
+Total: 1.737400 ms (FindLiveObjects: 0.129500 ms CreateObjectMapping: 0.037000 ms MarkObjects: 1.491600 ms  DeleteObjects: 0.078300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002080 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.777 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1860.
+Total: 1.706500 ms (FindLiveObjects: 0.161000 ms CreateObjectMapping: 0.049000 ms MarkObjects: 1.424300 ms  DeleteObjects: 0.071200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001697 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.796 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1863.
+Total: 1.515100 ms (FindLiveObjects: 0.123800 ms CreateObjectMapping: 0.032800 ms MarkObjects: 1.292400 ms  DeleteObjects: 0.065200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001896 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.762 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1866.
+Total: 1.641900 ms (FindLiveObjects: 0.142900 ms CreateObjectMapping: 0.041100 ms MarkObjects: 1.387200 ms  DeleteObjects: 0.069900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001675 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.759 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1869.
+Total: 1.621500 ms (FindLiveObjects: 0.130400 ms CreateObjectMapping: 0.040100 ms MarkObjects: 1.382600 ms  DeleteObjects: 0.067600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002245 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.739 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1285 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1872.
+Total: 1.824100 ms (FindLiveObjects: 0.128900 ms CreateObjectMapping: 0.040800 ms MarkObjects: 1.583100 ms  DeleteObjects: 0.070500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
