@@ -1,7 +1,9 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
+using DG.Tweening;
 
 
 public class PlayerPointClick : MonoBehaviour
@@ -12,6 +14,10 @@ public class PlayerPointClick : MonoBehaviour
     public GameObject vfxPoint;
 
     public AnimationClip clipAnimationGetItem;
+
+    public AnimationClip clipAnimationButton;
+
+    private bool pegouItem;
 
     private void Start()
     {
@@ -46,14 +52,23 @@ public class PlayerPointClick : MonoBehaviour
                         Vector3 destino = hit.collider.GetComponent<Door>().DestinoDoor().position;
                         operationIA = true;
                         if (destino != null)
-                        agent.destination = destino;
+                            agent.destination = destino;
                         break;
                     case "Item":
                         if (!operationIA)
                         {
                             SetDestination(hit);
                             collectableItem = hit.collider.GetComponent<I_Collectable>();
-                            StartCoroutine(ItemDistance(hit.collider.transform.position));
+                            StartCoroutine(ItemDistance(hit.collider.transform.position, PegarItem, 0.5f));
+                            operationIA = true;
+                        }
+                        break;
+                    case "Loading":
+                        if (!operationIA && pegouItem)
+                        {
+                            Vector3 destinoBotao = hit.collider.GetComponent<LoadingScene>().targetDirection.position;
+                            agent.destination = destinoBotao;
+                            StartCoroutine(ItemDistance(hit.collider.transform.position, FinishMapLevel1, 3.2f));
                             operationIA = true;
                         }
                         break;
@@ -90,15 +105,15 @@ public class PlayerPointClick : MonoBehaviour
 
     I_Collectable collectableItem;
 
-    IEnumerator ItemDistance(Vector3 position)
+    IEnumerator ItemDistance(Vector3 position, Action action, float distance)
     {
         while (true)
         {
             Vector3 direction = position - transform.position;
             print(direction.magnitude);
-            if (direction.magnitude < 2)
+            if (direction.magnitude < distance)
             {
-                PegarItem();
+                action();
                 break;
             }
 
@@ -135,6 +150,24 @@ public class PlayerPointClick : MonoBehaviour
     {
         collectableItem.DestroyItem();
         operationIA = false;
+        pegouItem=true;
+    }
+
+    private void FinishMapLevel1()
+    {
+        animator.SetTrigger("Button");
+
+        AnimationEvent animationEvent;
+        animationEvent = new AnimationEvent();
+        animationEvent.time = clipAnimationButton.length;
+        animationEvent.functionName = "LoadingMapa";
+
+        clipAnimationButton.AddEvent(animationEvent);
+    }
+
+    private void LoadingMapa()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Level 2");
     }
 
     private NavMeshAgent agent;
